@@ -33,4 +33,3 @@ class Solution:
         if s_sort == t_sort:
             return True
         return False
-            
